@@ -2,8 +2,6 @@
 
 ## Modern Car Rental Web app, built using Next.js 13, TypeScript & Tailwind CSS.
 
----
-
 ### Technologies Used
 
 -   React.js 18
