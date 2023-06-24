@@ -9,6 +9,7 @@
 -   JavaScript (ECMAScript 2020)
 -   TypeScript 5
 -   Tailwind CSS 3
+-   CSS 3
 -   Rpid Api - https://rapidapi.com/apininjas/api/cars-by-api-ninjas
 
 ---
@@ -24,3 +25,5 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+Category - Ecommerce
