@@ -1,12 +1,9 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
-import { Footer, NavBar } from '../components'
-
-const inter = Inter({ subsets: ['latin'] })
+import { Footer, NavBar } from '@/components'
 
 export const metadata = {
-    title: 'AutoDrive',
-    description: 'Find, book, or rent a car - quickly and easily'
+    title: 'Car Hub',
+    description: "Discover world's best car showcase application"
 }
 
 export default function RootLayout({

@@ -10,6 +10,7 @@
 -   TypeScript 5
 -   Tailwind CSS 3
 -   CSS 3
+-   Headless UI
 -   Rpid Api - https://rapidapi.com/apininjas/api/cars-by-api-ninjas
 
 ---
