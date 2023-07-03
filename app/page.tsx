@@ -44,7 +44,7 @@ export default function Home() {
                 manufacturer: manufacturer.toLowerCase() || '',
                 model: model.toLowerCase() || '',
                 fuel: fuel.toLowerCase() || '',
-                year: year || 2022,
+                year: year || 2023,
                 limit: limit || 10
             })
 
